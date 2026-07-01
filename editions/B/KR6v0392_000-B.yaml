@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0392/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 冊府元龜選輯
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B17/B17n0094.xml
+    old_id: B17n0094
+hash: sha256:850c8e2a227a9abf00d0897223c2a26e345a42d113ebf1cf6f1b23adbfdecd85

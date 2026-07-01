@@ -1,0 +1,103 @@
+canonical_identifier: bkk:krp/KR6v0392/v1
+canonical_location: https://kanripo.org/bkk/KR6v0392/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 冊府元龜選輯
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B17/B17n0094.xml
+    old_id: B17n0094
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0392_000.yaml, hash: 'sha256:850c8e2a227a9abf00d0897223c2a26e345a42d113ebf1cf6f1b23adbfdecd85'}
+  - {seq: 1, filename: KR6v0392_001.yaml, hash: 'sha256:8655fe85a88f644e252ccaf97cae9ced4f6da79fbcf46de0f637edf8bac46a43'}
+  - {seq: 2, filename: KR6v0392_002.yaml, hash: 'sha256:5b7152cd1a4c6560886dbd649802971bf8cf7814987a318aaa132fbc56ab45e2'}
+  - {seq: 4, filename: KR6v0392_004.yaml, hash: 'sha256:98a8c311f8ddfcb78a8307fe696d1c27ed3e8ae8140e3ccc0acdb2c5661b9d5a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0392_001.markers.yaml, hash: 'sha256:7fca8987e94cb000ba6f70a40bc0a7dff91260410cb793a9272054da7ed1349b'}
+  - {seq: 2, role: markers, filename: assets/KR6v0392_002.markers.yaml, hash: 'sha256:5c480859a773d0eacdb7c5cd82af03ed0ec852290025c02932a087bf5d56777f'}
+  - {seq: 4, role: markers, filename: assets/KR6v0392_004.markers.yaml, hash: 'sha256:32074c77c69c08d62e60910e475b09036f0e39c36e79c37cbbc5659cee7c4f5e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0392_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 7297
+  label: 冊府元龜
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0392_B_001-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 帝王部．崇釋氏第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0392_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 10066
+  label: 冊府元龜
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0392_B_002-mulu-1
+    span:
+    - body
+    - 36
+    - 36
+  label: 帝王部．崇釋氏第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0392_B_002-mulu-2
+    span:
+    - body
+    - 5900
+    - 5900
+  label: 閏位部．崇釋老
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0392_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 8689
+  label: 冊府元龜
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0392_B_004-mulu-1
+    span:
+    - body
+    - 40
+    - 40
+  label: 總錄部．崇釋教
+  type: mulu
+  level: 1
+hash: sha256:2a4ffee7661fd5c9bb24cfd181d25daf074a21896698e84af3d42173f169e0c3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
